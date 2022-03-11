@@ -2,8 +2,6 @@
 	import NavStart from '$lib/components/generic/NavStart.svelte';
 	import NavCenter from '$lib/components/generic/NavCenter.svelte';
 	import NavEnd from './generic/NavEnd.svelte';
-
-	let logoNav = './static/images/logo.png';
 </script>
 
 <div

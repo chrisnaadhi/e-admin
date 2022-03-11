@@ -6,5 +6,5 @@
 </script>
 
 <div class="navbar-start">
-	<img class="w-48" src={logoUnpadLight} alt="Logo Perpustakaan UNPAD" />
+	<a href="/"><img class="w-48" src={logoUnpadLight} alt="Logo Perpustakaan UNPAD" /></a>
 </div>

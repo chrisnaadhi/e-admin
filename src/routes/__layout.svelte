@@ -10,7 +10,9 @@
 		<Navbar />
 	</header>
 
-	<slot />
+	<div class="mt-16 flex items-center justify-center">
+		<slot></slot>
+	</div>
 
 	<Footer />
 </div>
