@@ -18,8 +18,8 @@
 				>
 			</a>
 			<ul class="p-2 bg-base-100">
-				<li><a href="/#">Submenu 1</a></li>
-				<li><a href="/#">Submenu 2</a></li>
+				<li><a href="/pengajuan">Pengajuan</a></li>
+				<li><a href="/status">Status</a></li>
 			</ul>
 		</li>
 		<li><a href="/#">Kontak</a></li>
