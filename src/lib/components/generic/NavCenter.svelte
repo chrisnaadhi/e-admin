@@ -20,6 +20,7 @@
 			<ul class="p-2 bg-base-100">
 				<li><a href="/pengajuan">Pengajuan</a></li>
 				<li><a href="/status">Status</a></li>
+				<li><a href="/syarat">Persyaratan</a></li>
 			</ul>
 		</li>
 		<li><a href="/#">Kontak</a></li>
