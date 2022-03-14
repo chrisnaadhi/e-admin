@@ -19,9 +19,3 @@
 		<LoginForm />
 	</div>
 </div>
-
-<style>
-	.base-height {
-		min-height: 45rem;
-	}
-</style>
