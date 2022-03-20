@@ -7,6 +7,7 @@
 		{
 			id: '1',
 			npm: '210210160084',
+			nama: 'Jayden Price',
 			keterangan: 'Mendaftar Sidang',
 			tglPengajuan: '14 Maret 2022',
 			tglProses: '15 Maret 2022',
@@ -15,6 +16,7 @@
 		{
 			id: '2',
 			npm: '210210160084',
+			nama: 'Randall Perez',
 			keterangan: 'Mendaftar Tugas Akhir',
 			tglPengajuan: '15 Maret 2022',
 			tglProses: '16 Maret 2022',
@@ -23,6 +25,7 @@
 		{
 			id: '3',
 			npm: '210210160084',
+			nama: 'Amanda Ruiz',
 			keterangan: 'Mendaftar Wisuda',
 			tglPengajuan: '17 Maret 2022',
 			tglProses: '18 Maret 2022',
@@ -31,6 +34,7 @@
 		{
 			id: '4',
 			npm: '210210160084',
+			nama: 'Patsy Scott',
 			keterangan: 'Mendaftar Kejuaraan',
 			tglPengajuan: '18 Maret 2022',
 			tglProses: '21 Maret 2022',
@@ -39,6 +43,7 @@
 		{
 			id: '5',
 			npm: '210210160084',
+			nama: 'Cherly Reyes',
 			keterangan: 'Mendaftar Sidang Usulan Penelitian',
 			tglPengajuan: '21 Maret 2022',
 			tglProses: '21 Maret 2022',
