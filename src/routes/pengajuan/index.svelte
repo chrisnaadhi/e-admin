@@ -1,8 +1,6 @@
 <script>
 	import Form from '$lib/components/shared/Form.svelte';
 	import Button from '$lib/components/shared/Button.svelte';
-	import Card from '$lib/components/shared/Card.svelte';
-	import Error from '../__error.svelte';
 
 	const formData = [
 		{
@@ -39,7 +37,7 @@
 			{#each formData as dataHold}
 				<Form {...dataHold} />
 			{/each}
-			<Button main={true}>Ajukan</Button>
+			<Button main={true} properties={''}>Ajukan</Button>
 		</form>
 	</div>
 </div>
