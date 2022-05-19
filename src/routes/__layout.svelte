@@ -14,7 +14,7 @@
 		<Navbar />
 	</header>
 
-	<div class="mt-16 flex items-center justify-center">
+	<div class="h-screen flex justify-center">
 		<slot />
 	</div>
 

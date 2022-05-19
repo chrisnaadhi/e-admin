@@ -1,7 +1,7 @@
 <script>
 	import { darkMode } from '$lib/stores/userStore';
 
-	let logoUnpadLight = '../static/images/logo.png';
+	let logoUnpadLight = '/images/logo.png';
 	let logoUnpadDark;
 </script>
 
