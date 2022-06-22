@@ -32,8 +32,8 @@
 
 <div class="flex flex-col items-center base-height bg-base-100 w-full text-base-content">
 	<div class="w-full md:w-3/5 lg:w-2/5 text-md mb-2 items-center px-14">
-		<form class="min-w-full">
-			<h1 class="text-center my-12 text-4xl">Formulir Pengajuan</h1>
+		<form class="min-w-full mt-24">
+			<h1 class="text-center my-8 text-4xl">Formulir Pengajuan</h1>
 			{#each formData as dataHold}
 				<Form {...dataHold} />
 			{/each}
