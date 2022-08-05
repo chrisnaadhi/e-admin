@@ -1,5 +1,6 @@
 <script context="module">
-	export async function load({ fetch }) {
+	/** @type {import('./__types').Load} */
+	export const GET = async ({ fetch }) => {
 		const res = await fetch('/syarat.json');
 		const { suratList } = await res.json();
 
@@ -15,12 +16,13 @@
 			status: res.status,
 			error: new Error('Could not fetch the list of surat')
 		};
-	}
+	};
 </script>
 
 <script>
 	import Card from '$lib/components/shared/Card.svelte';
-	export let suratList;
+	/** @type any */
+	let suratList;
 </script>
 
 <section class="flex flex-col items-center justify-center bg-base-100 w-full">

@@ -1,7 +1,7 @@
 <script>
 	import LoginForm from '$lib/components/generic/LoginForm.svelte';
 
-	let logoUnpad = '/images/logo-unpad1.png';
+	let logoUnpad = 'images/logo-unpad.png';
 </script>
 
 <div class="hero base-height pb-12 lg:pb-0 bg-base-200 text-base-content">
