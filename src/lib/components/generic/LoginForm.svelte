@@ -15,8 +15,8 @@
 		</div>
 		<h4 class="divider mt-0">Or</h4>
 		<div class="flex flex-row">
-			<img class="w-1/2" src="./static/images/googlesign.png" alt="Login with Google" />
-			<img class="w-1/2" src="./static/images/applesign.png" alt="Login with Google" />
+			<img class="w-1/2" src="/images/googlesign.png" alt="Login with Google" />
+			<img class="w-1/2" src="/images/applesign.png" alt="Login with Google" />
 		</div>
 	</div>
 </div>
